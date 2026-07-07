@@ -8,6 +8,7 @@ import java.util.Scanner;
 /**
  * Project2.java
  * Programming Project 2
+ * Rodney Dennise
  * Date: 07/06/2026
  *
  * Reads student records from students.txt, builds Student objects of the

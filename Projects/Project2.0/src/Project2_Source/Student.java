@@ -1,5 +1,6 @@
 /**
  * Student.java
+ * Rodney Dennise
  * Programming Project 2
  * Date: 07/06/2026
  *
