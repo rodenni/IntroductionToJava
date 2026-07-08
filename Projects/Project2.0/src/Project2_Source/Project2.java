@@ -1,10 +1,3 @@
-package Project2_Source;
-
-import java.io.File;
-import java.io.FileNotFoundException;
-import java.util.ArrayList;
-import java.util.Scanner;
-
 /**
  * Project2.java
  * Programming Project 2
@@ -17,6 +10,13 @@ import java.util.Scanner;
  * midpoint between the average GPA and 4.0, and prints a report listing
  * every student who qualifies for honor society membership.
  */
+package Project2_Source;
+import java.io.File;
+import java.io.FileNotFoundException;
+import java.util.ArrayList;
+import java.util.Scanner;
+
+
 public class Project2 {
 
     // Name of the input file containing student records
