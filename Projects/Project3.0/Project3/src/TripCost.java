@@ -1,7 +1,7 @@
 
 /**
  * TripCost.java
- * Author: Rodney
+ * Author: Rodney Dennise
  * Date: July 21, 2026
  *
  * Immutable class representing the cost breakdown of a road trip.

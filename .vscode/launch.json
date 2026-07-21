@@ -4,8 +4,13 @@
     // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
     "version": "0.2.0",
     "configurations": [
-        
-        
+        {
+            "type": "java",
+            "name": "Project3",
+            "request": "launch",
+            "mainClass": "Project3",
+            "projectName": "IntroToJava_316249b7"
+        },
         {
             "type": "java",
             "name": "Current File",
