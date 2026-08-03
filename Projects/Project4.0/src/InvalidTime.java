@@ -1,7 +1,7 @@
 /**
  * InvalidTime.java
  * CMSC 215 - Programming Project 4
- * Author: Rodney
+ * Author: Rodney Dennise
  * Date: August 2, 2026
  *
  * A checked exception thrown when a Time object is constructed with

@@ -10,7 +10,7 @@ import javafx.stage.Stage;
 /**
  * Project4.java
  * CMSC 215 - Programming Project 4
- * Author: Rodney
+ * Author: Rodney Dennise
  * Date: August 2, 2026
  *
  * A JavaFX GUI application, the Time Interval Checker, that lets a user

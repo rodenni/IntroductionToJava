@@ -1,7 +1,7 @@
 /**
  * Time.java
  * CMSC 215 - Programming Project 4
- * Author: Rodney
+ * Author: Rodney Dennise
  * Date: August 2, 2026
  *
  * An immutable class representing a 12-hour clock time made up of hours,
